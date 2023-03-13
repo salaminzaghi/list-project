@@ -1,13 +1,15 @@
 - membuat web portofolio
+https://mallexibra.github.io/mallexibra-website/#about
+
 - membuat web company profile
 
 - membuat aplikasi to-do list contoh:
 [https://ypcode-todolist.netlify.app/]
 abdulaziz_code
-
 Assalamualaikum pak Dhika dan teman teman semua; izin share project membuat todolist menggunakan react js.
-
 Link website : https://ypcode-todolist.netlify.app/ Link repo : https://github.com/ypc0de/react-todolist
-
 Mohon kritik dan sarannya teman-teman semua, terimakasih!;
 
+- membuat website pengenalan huruf hijaiyah
+
+- membuat website al-qur'an
